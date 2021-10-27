@@ -1,0 +1,14 @@
+body {
+    margin:0;
+    background-color: #121212;
+
+    height: 500vh;
+}
+
+#indicator{
+    background-color:#FF4754;
+    height: .2rem;
+    width: 0;
+    position: fixed;
+    top:0;
+}
